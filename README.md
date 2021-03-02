@@ -40,6 +40,11 @@ The following process was used to obtain the appropriate model:
 * Making predictions on the test dataset
 * Making predictions on some custom images
 
+## 6. Model
+The model used in this classification problem was from TensorFlow Hub https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4
+
+* mobilenetv2 for classification 
+
 ### Screenshots
 Example predictions on a subset of data including other possible predictions:
 <img src = "sampleimages/sample1.png" height = "450">
